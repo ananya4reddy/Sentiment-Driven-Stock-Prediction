@@ -13,7 +13,7 @@ This repository contains my work for the WiDS project: Market mood & moves: Sent
 - Sentiment analysis , VADER sentiment analyzer and FinBERT for financial text
 - Behavioral finance concepts
 - Quantitative finance fundamentals
-- Challenges
+- attempted Challenges
 
 ### Week 2 
 - Evolution of embeddings, static and dynamic(BERT)
@@ -21,8 +21,21 @@ This repository contains my work for the WiDS project: Market mood & moves: Sent
 - Pretraining objectives like MLM, NSP
 - FinBERT domain adaption
 - Huggingface Transformers implementation
-- Advanced topic challenges
+- attempted Advanced topic challenges
 
 ### Resources used : 
+
+API based data collection - https://newsapi.org/
+NLP fundamentals - https://www.nltk.org/book/
+for revising python - https://www.w3schools.com/python/
+for Pandas - https://pandas.pydata.org/docs/user_guide/10min.html, https://www.geeksforgeeks.org/pandas-tutorial/
+for numpy - https://www.w3schools.com/python/numpy/
+Reading guides by mentors 
+http://localhost:8888/lab/tree/week_1/week_1_reading.pdf
+http://localhost:8888/lab/tree/week_2/week_2_reading.pdf
+
+
+
+
 
 
