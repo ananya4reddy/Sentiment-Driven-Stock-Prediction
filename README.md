@@ -25,13 +25,13 @@ This repository contains my work for the WiDS project: Market mood & moves: Sent
 
 ### Resources used : 
 
-API based data collection - https://newsapi.org/
-NLP fundamentals - https://www.nltk.org/book/
-for revising python - https://www.w3schools.com/python/
-for Pandas - https://pandas.pydata.org/docs/user_guide/10min.html, https://www.geeksforgeeks.org/pandas-tutorial/
-for numpy - https://www.w3schools.com/python/numpy/
+API based data collection - https://newsapi.org/,  
+NLP fundamentals - https://www.nltk.org/book/,  
+for revising python - https://www.w3schools.com/python/,  
+for Pandas - https://pandas.pydata.org/docs/user_guide/10min.html, https://www.geeksforgeeks.org/pandas-tutorial/,  
+for numpy - https://www.w3schools.com/python/numpy/,  
 Reading guides by mentors 
-http://localhost:8888/lab/tree/week_1/week_1_reading.pdf
+http://localhost:8888/lab/tree/week_1/week_1_reading.pdf, 
 http://localhost:8888/lab/tree/week_2/week_2_reading.pdf
 
 
