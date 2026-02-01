@@ -2,7 +2,8 @@
 
 ## Overview 
 This repository contains my work for the WiDS project Market Mood & Moves: Sentiment-Driven Stock Prediction, completed across Weeks 1 to 4. Through this project, I learned how stock price data, financial news, and sentiment analysis can be connected to study market behavior.
-      I worked on fetching stock data and news using APIs, analyzing sentiment using NLP models, and understanding how time-series models like LSTMs can be used for prediction. Overall, this repository reflects my learning process, experiments, and understanding developed throughout the course
+
+I worked on fetching stock data and news using APIs, analyzing sentiment using NLP models, and learning how time-series models like LSTMs can be used for prediction. In the later stages, I focused on integrating these components into a single pipeline to generate buy, sell, or hold signals. Overall, this repository reflects my learning process, experiments, and understanding developed throughout the course.
 
 ### Week 1 
 - revised Python programming fundamentals
