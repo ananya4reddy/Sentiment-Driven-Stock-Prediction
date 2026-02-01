@@ -57,7 +57,8 @@ for Pandas - https://pandas.pydata.org/docs/user_guide/10min.html, https://www.g
 for numpy - https://www.w3schools.com/python/numpy/,  
 Reading guides by mentors 
 http://localhost:8888/lab/tree/week_1/week_1_reading.pdf, 
-http://localhost:8888/lab/tree/week_2/week_2_reading.pdf
+http://localhost:8888/lab/tree/week_2/week_2_reading.pdf, 
+http://localhost:8888/lab/tree/week_3/week_3_reading.pdf
 
 
 
