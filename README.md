@@ -24,27 +24,27 @@ This repository contains my work for the WiDS project: Market mood & moves: Sent
 - attempted Advanced topic challenges
 
 ### Week 3 
--Introduction to time-series data in financial markets
--Understanding why stock prices depend on past values
--Basics of sequential modeling for price prediction
--Limitations of traditional models for time-dependent data
--Introduction to Recurrent Neural Networks (RNNs)
--Motivation for using LSTMs over vanilla RNNs
--Understanding LSTM memory cells and gates conceptually
--Sliding window approach for creating input sequences
--Feature engineering for time-series:Daily returns, Volatility, momentum indicators (RSI, MACD)
--PyTorch to build and train LSTM model
+- Introduction to time-series data in financial markets
+- Understanding why stock prices depend on past values
+- Basics of sequential modeling for price prediction
+- Limitations of traditional models for time-dependent data
+- Introduction to Recurrent Neural Networks (RNNs)
+- Motivation for using LSTMs over vanilla RNNs
+- Understanding LSTM memory cells and gates conceptually
+- Sliding window approach for creating input sequences
+- Feature engineering for time-series:Daily returns, Volatility, momentum indicators (RSI, MACD)
+- PyTorch to build and train LSTM model
 
 ### Week 4 
--Integrating sentiment analysis with stock price prediction
--Combining Week 2 (FinBERT) and Week 3 (LSTM) concepts
--End-to-end pipeline design for stock prediction
--Using NewsAPI for real-time financial news
--Using yFinance for OHLCV stock data
--Converting news sentiment into numerical signals
--Feeding combined features into an LSTM-based model
--Generating BUY / SELL / HOLD signals
--Understanding practical limitations of prediction-based trading
+- Integrating sentiment analysis with stock price prediction
+- Combining Week 2 (FinBERT) and Week 3 (LSTM) concepts
+- End-to-end pipeline design for stock prediction
+- Using NewsAPI for real-time financial news
+- Using yFinance for OHLCV stock data
+- Converting news sentiment into numerical signals
+- Feeding combined features into an LSTM-based model
+- Generating BUY / SELL / HOLD signals
+- Understanding practical limitations of prediction-based trading
 
 ### Resources used : 
 
